@@ -1,0 +1,11 @@
+lastupdate.tmp
+.idea
+apiServer
+*.tmp
+*.log
+swagger/*
+*.swp
+*.pprof
+*.memprof
+docs/
+swagger/
